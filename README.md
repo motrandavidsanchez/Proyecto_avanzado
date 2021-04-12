@@ -1,2 +1,2 @@
-# Proyecto_avanzado
-Proyecto Avanzado
+# Proyecto avanzado
+Proyecto Avanzado del curso de Django
